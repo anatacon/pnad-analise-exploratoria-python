@@ -22,6 +22,13 @@ A PNAD Contínua é uma pesquisa amostral realizada pelo IBGE que investiga cara
 
 ---
 
+## Fonte dos Dados
+
+Os dados utilizados neste projeto são da PNAD Contínua 2024, disponíveis publicamente no site:
+[https://www.ibge.gov.br/](https://www.kaggle.com/datasets/hugobovaretohorsth/censo-escolar-2022-brazil?select=dados)
+
+---
+
 ## Variáveis analisadas
 Algumas das principais variáveis utilizadas no projeto incluem:
 
