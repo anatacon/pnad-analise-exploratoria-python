@@ -1,18 +1,18 @@
-# 📊 Análise Exploratória da PNAD Contínua – Mercado de Trabalho e Escolaridade
+# Análise Exploratória da PNAD Contínua – Mercado de Trabalho e Escolaridade
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 Este projeto apresenta uma **análise exploratória de dados (EDA)** utilizando a **PNAD Contínua**, com foco em indivíduos **ocupados**, buscando compreender a relação entre **escolaridade, idade e renda do trabalho**.
 
 O objetivo principal é aplicar técnicas iniciais de análise de dados em um conjunto de dados real, de grande porte e amplamente utilizado em estudos socioeconômicos, demonstrando habilidades em **Python, pandas, limpeza de dados e comunicação de resultados**.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 Realizar uma análise exploratória dos dados da PNAD Contínua com foco em indivíduos ocupados, investigando a relação entre escolaridade, idade e renda do trabalho.
 
 ---
 
-## 🗂️ Base de dados
+## Base de dados
 - **Fonte:** PNAD Contínua (IBGE) – versão disponibilizada no Kaggle  
 - **Formato:** Parquet  
 - **Ano:** 2024  
@@ -22,7 +22,7 @@ A PNAD Contínua é uma pesquisa amostral realizada pelo IBGE que investiga cara
 
 ---
 
-## 🧾 Variáveis analisadas
+## Variáveis analisadas
 Algumas das principais variáveis utilizadas no projeto incluem:
 
 - **Idade**
@@ -33,7 +33,7 @@ Algumas das principais variáveis utilizadas no projeto incluem:
 
 ---
 
-## ⚠️ Limitações da base
+## Limitações da base
 A variável **VD4002 (situação de trabalho)** é aplicada apenas a indivíduos que já declararam vínculo de trabalho nas etapas anteriores do questionário da PNAD.  
 
 Dessa forma, a base analisada contempla **exclusivamente indivíduos ocupados**, não incluindo pessoas fora da força de trabalho, como aposentados, estudantes ou pessoas que não exerceram atividade econômica na semana de referência.
@@ -42,7 +42,7 @@ Além disso, o conceito de ocupação adotado pela PNAD é amplo, abrangendo ati
 
 ---
 
-## 🧪 Etapas da análise
+## Etapas da análise
 O projeto seguiu as seguintes etapas:
 
 1. Leitura e entendimento da base de dados  
@@ -55,7 +55,7 @@ O projeto seguiu as seguintes etapas:
 
 ---
 
-## 📈 Principais análises realizadas
+## Principais análises realizadas
 - Distribuição etária dos trabalhadores ocupados  
 - Distribuição por sexo e escolaridade  
 - Análise da renda do trabalho  
@@ -63,7 +63,7 @@ O projeto seguiu as seguintes etapas:
 
 ---
 
-## 🛠️ Ferramentas e tecnologias
+## Ferramentas e tecnologias
 - **Python**
 - **pandas**
 - **matplotlib**
@@ -72,7 +72,7 @@ O projeto seguiu as seguintes etapas:
 
 ---
 
-## 📌 Conclusão
+## Conclusão
 - A base analisada contempla exclusivamente indivíduos ocupados  
 - Observa-se uma associação positiva entre nível de escolaridade e renda media  
 - A análise reforça a importância da correta interpretação das variáveis da PNAD  
@@ -80,7 +80,7 @@ O projeto seguiu as seguintes etapas:
 
 ---
 
-## 👩‍💻 Autora
+## Autora
 **Ana Claudia Casagrande Tacon**  
 Projeto desenvolvido como parte da construção de um **portfólio para atuação na área de Dados**.
 
